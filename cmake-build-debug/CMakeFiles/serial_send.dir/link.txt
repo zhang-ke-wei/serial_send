@@ -1,0 +1,1 @@
+/usr/bin/gcc  -g    CMakeFiles/serial_send.dir/main.c.o  -o serial_send -rdynamic 
